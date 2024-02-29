@@ -1,0 +1,37 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/gui.rpy", line 15, in script
+    define config.check_conflicting_properties = True
+  File "game/gui.rpy", line 15, in script
+    define config.check_conflicting_properties = True
+  File "renpy/common/000namespaces.rpy", line 33, in set
+    setattr(self.nso, name, value)
+Exception: config.check_conflicting_properties is not a known configuration variable.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "D:\Users\Brttny\Downloads\renpy-8.0.3-sdk\renpy\bootstrap.py", line 277, in bootstrap
+    renpy.main.main()
+  File "D:\Users\Brttny\Downloads\renpy-8.0.3-sdk\renpy\main.py", line 558, in main
+    renpy.game.context().run(node)
+  File "game/gui.rpy", line 15, in script
+    define config.check_conflicting_properties = True
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/site-packages/future/utils/__init__.py", line 441, in raise_
+  File "game/gui.rpy", line 15, in script
+    define config.check_conflicting_properties = True
+  File "D:\Users\Brttny\Downloads\renpy-8.0.3-sdk\renpy\ast.py", line 2441, in execute
+    self.set()
+  File "D:\Users\Brttny\Downloads\renpy-8.0.3-sdk\renpy\ast.py", line 2459, in set
+    ns.set(self.varname, value)
+  File "renpy/common/000namespaces.rpy", line 33, in set
+    setattr(self.nso, name, value)
+  File "D:\Users\Brttny\Downloads\renpy-8.0.3-sdk\renpy\defaultstore.py", line 105, in __setattr__
+    raise Exception('config.%s is not a known configuration variable.' % (name))
+Exception: config.check_conflicting_properties is not a known configuration variable.
+
+Windows-10-10.0.19045 AMD64
+Ren'Py 8.0.3.22090809
+The Darkest Dungeon Fight 1.0
+Tue Dec 19 22:55:55 2023
