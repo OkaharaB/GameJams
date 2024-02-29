@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/StarterContent/Particles/P_Fire.uasset",
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
 			]
