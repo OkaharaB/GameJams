@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/ThirdPerson/Blueprints/Enemy.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/Assets/Invis.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZL/NGZ6GDGJQEPDDY74PWUMAU.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/22JEZLU1SPYSFJC9IBKI9F.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/Blueprints/WB_FallDeath.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/Blueprints/BP_FallDeath.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7J/FMR1DB1U4UO65V41M1EF8S.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/O2/5IK4HCCMXNKGBFTTN4UTVP.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/9I/ODAKH5FRG5OTOQGL2Q9LEG.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YY/14OFHJ5RUEKSMHKXTZ38I2.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/Assets/initialShadingGroup.uasset",
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/Assets/PlayerOne.uasset",
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/StarterContent/Particles/P_Fire.uasset",
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/Blueprints/BP_CameraManager.uasset",
@@ -30,16 +46,9 @@
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/Assets/woman_by_the_seaside_1970_17_118.uasset",
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/brittny/Documents/GameJams/AcerolaJam0/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/ThirdPerson/Blueprints/BP_CameraManager.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/ThirdPerson/Blueprints/Enemy.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/Assets/Invis.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/ZL/NGZ6GDGJQEPDDY74PWUMAU.uasset",
-				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/22JEZLU1SPYSFJC9IBKI9F.uasset"
+				"C:/Users/Brttny/OneDrive/Documents/Game Projects/GameJams/AcerolaJam0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
 			]
 		}
 	]
